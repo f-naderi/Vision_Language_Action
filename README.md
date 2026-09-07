@@ -1,5 +1,5 @@
 ```markdown
-# Vision-Language-Action Learning with MiniVLA
+# Vision-Language-Action Learning
 
 A lightweight Vision-Language-Action (VLA) project that learns to predict continuous robot actions from visual observations, natural-language instructions, and robot state.
 
