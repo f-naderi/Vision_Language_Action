@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+archive/
+data/
+libero_spatial_no_noops/
+mnist_data/
+pretrained/
+results/best_minivla.pt
+venv/
